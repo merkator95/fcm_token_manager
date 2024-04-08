@@ -9,3 +9,7 @@
 ## 0.1.2
 
 * Upgrade Firebase dependencies
+
+## 0.1.3
+
+* Upgrade Firebase dependencies
