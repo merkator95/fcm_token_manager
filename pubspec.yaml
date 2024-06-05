@@ -8,8 +8,8 @@ environment:
   flutter: ">=3.10.0"
 
 dependencies:
-  firebase_core: ^2.31.1
-  firebase_messaging: ^14.9.3
+  firebase_core: ">=2.31.1 <4.0.0"
+  firebase_messaging: ">=14.9.3 <16.0.0"
   flutter:
     sdk: flutter
   flutter_secure_storage: ^9.2.2
