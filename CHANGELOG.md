@@ -21,3 +21,7 @@
 ## 0.1.5
 
 * Upgrade Firebase dependencies
+
+## 0.1.6
+
+* Upgrade Firebase Core to 3.15.2 and Firebase Messaging to 15.2.10
