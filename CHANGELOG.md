@@ -1,3 +1,10 @@
+## 1.0.0
+
+* **BREAKING**: Upgrade Firebase Core to 4.1.1 and Firebase Messaging to 16.0.2
+* The firebase dependencies have the following breaking changes:
+* **BREAKING**: Bump Firebase iOS SDK to 12.2.0
+* **BREAKING**: Bump Firebase Android SDK to 34.1.0
+
 ## 0.1.6
 
 * Upgrade Firebase Core to 3.15.2 and Firebase Messaging to 15.2.10
