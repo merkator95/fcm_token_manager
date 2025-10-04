@@ -1,16 +1,8 @@
-## 0.1.0
+## 0.1.6
 
-* Initial release of this simple FCM token and permission manager
+* Upgrade Firebase Core to 3.15.2 and Firebase Messaging to 15.2.10
 
-## 0.1.1
-
-* Upgrade Firebase dependencies
-
-## 0.1.2
-
-* Upgrade Firebase dependencies
-
-## 0.1.3
+## 0.1.5
 
 * Upgrade Firebase dependencies
 
@@ -18,10 +10,18 @@
 
 * Upgrade Firebase dependencies
 
-## 0.1.5
+## 0.1.3
 
 * Upgrade Firebase dependencies
 
-## 0.1.6
+## 0.1.2
 
-* Upgrade Firebase Core to 3.15.2 and Firebase Messaging to 15.2.10
+* Upgrade Firebase dependencies
+
+## 0.1.1
+
+* Upgrade Firebase dependencies
+
+## 0.1.0
+
+* Initial release of this simple FCM token and permission manager
